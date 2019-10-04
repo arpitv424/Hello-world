@@ -1,0 +1,12 @@
+using System;
+namespace SimpleCsharpApplication
+{
+   class SimpleCsharp
+   {
+      static void Main(string[] args)
+      {
+         Console.WriteLine("HELLO WORLD!");
+         Console.ReadKey();
+      }
+   }
+}
